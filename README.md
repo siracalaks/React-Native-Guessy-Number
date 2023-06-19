@@ -1,4 +1,4 @@
-# guessy-number
+# Guessy-Number
 Guessy My Number, React Native kullanarak geliştirdiğim bir oyun projesidir. Bu basit ama eğlenceli oyunda kullanıcı, benim tarafımdan rastgele seçilen bir sayıyı tahmin etmeye çalışacaktır.
 
 # Özellikler
